@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard1.6</TargetFramework>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <Version>1.1.0-pre</Version>
+    <Authors>HQ.io</Authors>
+    <Company>HQ.io</Company>
+    <Description>Eventing middleware for high-performance streaming applications in .NET Core.</Description>
+    <Copyright>(c) 2017 HQ.io</Copyright>
+    <PackageLicenseUrl>https://github.com/hq-io/pipes/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/hq-io/pipes</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
